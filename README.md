@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
+<!-- ### Github Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=susantoscott&show_icons=true&theme=discord_old_blurple" alt="github stats" width="40%" align="right"/>
 <!-- 
 ### Github Streaks
