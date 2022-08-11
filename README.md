@@ -1,5 +1,6 @@
 ## Greetings Cyber-Traveller 👋
 
+### my name is Scott, and I am:
 - 🌱 Working on a TOP SECRET project
 - 👯 Looking to drop out of USC to build my startup and retire by age 30
 - 💬 Ask me about skydiving, running marathons, snowboarding
