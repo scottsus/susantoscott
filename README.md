@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=susantoscott&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
-#### Github Streaks
+### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=susantoscott&theme=dark" width="48%" >
 
-#### Top Languages
+### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susantoscott&layout=compact)
 
