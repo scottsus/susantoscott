@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susantoscott&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susantoscott&theme=dark" width="45%" >
 
 
 ### Top Languages
