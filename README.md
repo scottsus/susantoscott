@@ -1,10 +1,10 @@
-### Hi there 👋
+## Greetings Cyber-Traveller 👋
 
 - 🌱 Working on a TOP SECRET project
 - 👯 Looking to drop out of USC to build my startup and retire by age 30
 - 💬 Ask me about skydiving, running marathons, snowboarding
 - 📫 Reach me at scottsus@usc.edu or (310) 715 - 9972
-- ⚡ The TOP SECRET project is a kanban style job tracking app!
+- ⚡ The TOP SECRET project is really just a kanban style job tracking app
 
 #### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=susantoscott&show_icons=true&theme=discord_old_blurple" alt="github stats" width="40%" >
