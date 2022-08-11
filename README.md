@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats & Streaks
-<img src="https://github-readme-stats.vercel.app/api?username=susantoscott&show_icons=true&theme=discord_old_blurple" alt="github stats" width="40%" align="left"/>
+#### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=susantoscott&show_icons=true&theme=discord_old_blurple" alt="github stats" width="33%" >
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susantoscott&theme=dark" alt="github streaks" width="40%" align="right" >
+#### GitHub Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susantoscott&theme=dark" alt="github streaks" width="40%" align="center" >
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susantoscott&layout=compact)
+#### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susantoscott&layout=compact)
 
